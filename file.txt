@@ -3,5 +3,10 @@ test
 123123
 
 
+jika branch utama lebih maju dari pada branch yang lain maka branch lain tinggal di
 git merge branch
+
+
+//jika ada 2 branch yang tertinggal maka harus di rebease dulu di salah satu branch yang tertinggal ke branch utama
+lalu di
 git push --force-with-lease origin head
