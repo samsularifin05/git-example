@@ -1,7 +1,7 @@
 test
 123491231
 123123
-
+123451231
 
 jika branch utama lebih maju dari pada branch yang lain maka branch lain tinggal di
 git merge branch
