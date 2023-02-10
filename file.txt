@@ -8,5 +8,7 @@ git merge branch
 
 
 //jika ada 2 branch yang tertinggal maka harus di rebease dulu di salah satu branch yang tertinggal ke branch utama
-lalu di
+lalu di setelah di git rebease jangan di gi pull
 git push --force-with-lease origin head
+
+
